@@ -1,0 +1,17 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Quote
+{% endblock %}
+
+{% block main %}
+    <h1>Quote</h1>
+    {% if stock %}
+        <p>Stock: {{ stock["name"] }}</p>
+        <p>Symbol: {{ stock["symbol"] }}</p>
+        <p>Price: {{ stock["price"] | usd }}</p>
+    {% else %}
+        <p>Error: Stock data is not available.</p>
+    {% endif %}
+    <a href="/">Back to Home</a>
+{% endblock %}
