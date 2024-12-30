@@ -1,0 +1,5 @@
+1. If songs.db contains the top 100 songs of one listener from 2018, how would you characterize their audio aura?
+   - The listener's audio aura is likely energetic and upbeat if the average values for energy, danceability, and valence are high. A high average in these attributes suggests that the listener prefers lively and feel-good music.
+
+2. Hypothesize about why the way you’ve calculated this aura might not be very representative of the listener. What better ways of calculating this aura would you propose?
+   - This aura might not fully capture the listener's diverse tastes, as it’s based on averages without accounting for genre variety or listening frequency. A better approach might weigh songs based on play count and analyze lyrical content for mood insights.
