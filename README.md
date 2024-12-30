@@ -1,4 +1,4 @@
-#CS50x - Introduction to Computer Science
+# CS50x - Introduction to Computer Science
 
 https://cs50.harvard.edu/x/2024/
 
