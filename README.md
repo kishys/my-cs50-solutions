@@ -41,7 +41,7 @@ CS50x/
 
 - **Languages:** C, Python, SQL, HTML, CSS, JavaScript
 - **Development Tools:** Visual Studio Code, CS50 IDE, GitHub
-- **Additional Resources:** CS50's [lecture videos](https://cs50.harvard.edu/x/2024/lectures/) and [documentation](https://cs50.harvard.edu/x/2024/).
+- **Additional Resources:** CS50's [lecture videos](https://cs50.harvard.edu/x/2024//) and [documentation](https://cs50.harvard.edu/x/2024/).
 
 ---
 
