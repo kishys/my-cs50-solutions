@@ -2,18 +2,18 @@
 
 https://cs50.harvard.edu/x/2024/
 
-Welcome to my CS50x repository! This repository contains my journey through *CS50x - Harvard University's Introduction to Computer Science* course, showcasing my solutions, projects, and notes.
+Welcome to my CS50x repository! This repository contains my journey through *CS50x - Harvard University's Introduction to Computer Science* course, showcasing my solutions of 2024.
 
 ---
 
 ## 🖥️ About the Course
-CS50 is a world-renowned computer science course that covers fundamental topics in programming, algorithms, data structures, and more. Here's what the course entails:
+CS50x is a world-renowned computer science course that covers fundamental topics in programming, algorithms, data structures, and more. Here's what the course entails:
 
 - **Languages Covered:** C, Python, SQL, HTML, CSS, JavaScript
 - **Key Concepts:** Algorithms, Data Structures, Memory Management, Web Development, and more
 - **Final Project:** Build your own software project to solve a real-world problem
 
-Learn more about the course at [CS50's official website](https://cs50.harvard.edu/x/).
+Learn more about the course at [CS50x's official website](https://cs50.harvard.edu/x/).
 
 ---
 
