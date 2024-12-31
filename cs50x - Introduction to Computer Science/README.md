@@ -1,7 +1,8 @@
 # CS50x - Introduction to Computer Science
-
 https://cs50.harvard.edu/x/2024/
 
+
+## Kishan Suhi
 Welcome to my CS50x repository! This repository contains my journey through *CS50x - Harvard University's Introduction to Computer Science* course, showcasing my solutions of 2024.
 
 ---
