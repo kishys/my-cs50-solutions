@@ -13,11 +13,11 @@ This repository is organized as follows:
 CS50/
 ├── cs50x/         # CS50's Introduction to Computer Science
 ├── cs50p/         # CS50's Introduction to Programming with Python
-├── cs50ai/        # CS50's Introduction to Artificial Intelligence with Python
-├── cs50r/         # CS50's Introduction to Programing with R
 ├── cs50w/         # CS50's Web Programming with Python and JavaScript
 ├── cs50csec/      # CS50's Introduction to Cybersecurity
+├── cs50r/         # CS50's Introduction to Programing with R
 ├── cs50sql/       # CS50's Introduction to Databases with SQL
+├── cs50ai/        # CS50's Introduction to Artificial Intelligence with Python
 ├── cs50l/         # CS50's Computer Science for Lawyers
 ├── cs50b/         # CS50's Computer Science for Business Professionals
 └── README.md      # This File
