@@ -2,7 +2,7 @@
 
 https://cs50.harvard.edu/x/2024/
 
-Welcome to my CS50 repository! This repository contains my journey through *CS50x - Harvard University's Introduction to Computer Science* course, showcasing my solutions, projects, and notes.
+Welcome to my CS50x repository! This repository contains my journey through *CS50x - Harvard University's Introduction to Computer Science* course, showcasing my solutions, projects, and notes.
 
 ---
 
@@ -41,16 +41,6 @@ CS50x/
 
 - **Languages:** C, Python, SQL, HTML, CSS, JavaScript
 - **Development Tools:** Visual Studio Code, CS50 IDE, GitHub
-- **Additional Resources:** CS50's [lecture videos](https://cs50.harvard.edu/x/2024//) and [documentation](https://cs50.harvard.edu/x/2024/).
-
----
-
-## 🎯 Goals
-
-- Gain a deep understanding of computer science fundamentals
-- Learn how to write clean, efficient, and robust code
-- Develop problem-solving skills
-- Build a portfolio of projects to showcase my skills
 
 ---
 
