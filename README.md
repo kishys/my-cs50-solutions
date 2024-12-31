@@ -37,11 +37,11 @@ CS50/
 |--------|----------------------------------|---------------|
 | 1      | cs50x                           | ✅ Completed   |
 | 2      | cs50p                           | ⚒️ Working     |
-| 3      | cs50ai                          | 🕛 Uninitiated |
-| 4      | cs50r                           | 🕛 Uninitiated |
-| 5      | cs50w                           | 🕛 Uninitiated |
-| 6      | cs50csec                        | 🕛 Uninitiated |
-| 7      | cs50sql                         | 🕛 Uninitiated |
+| 3      | cs50w                           | 🕛 Uninitiated |
+| 4      | cs50csec                        | 🕛 Uninitiated |
+| 5      | cs50r                           | 🕛 Uninitiated |
+| 6      | cs50sql                         | 🕛 Uninitiated |
+| 7      | cs50ai                          | 🕛 Uninitiated |
 | 8      | cs50l                           | 🕛 Uninitiated |
 | 9      | cs50b                           | 🕛 Uninitiated |
 
