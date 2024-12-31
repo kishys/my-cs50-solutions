@@ -48,15 +48,15 @@ CS50x/
 
 | Week | Topic                            | Status        |
 |------|----------------------------------|---------------|
-| 1    | C                               | ➕ Adding More |
-| 2    | Arrays & Algorithms             | ➕ Adding More |
-| 3    | Memory Management               | ➕ Adding More |
-| 4    | Data Structures                 | ➕ Adding More |
-| 5    | Python Programming              | ✅ Completed   |
-| 6    | Web Development Basics          | ➕ Adding More |
-| 7    | SQL and Databases               | ✅ Completed   |
-| 8    | HTML,CSS,JavaScript             | ✅ Completed   |
-| 9    | Flask                           | ✅ Completed   |
+| 1    | C                               | ➕ Adding Extra |
+| 2    | Arrays & Algorithms             | ➕ Adding Extra |
+| 3    | Memory Management               | ➕ Adding Extra |
+| 4    | Data Structures                 | ➕ Adding Extra |
+| 5    | Python Programming              | ✅ Completed    |
+| 6    | Web Development Basics          | ➕ Adding Extra |
+| 7    | SQL and Databases               | ✅ Completed    |
+| 8    | HTML,CSS,JavaScript             | ✅ Completed    |
+| 9    | Flask                           | ✅ Completed    |
 
 
 
