@@ -51,7 +51,7 @@ CS50x/
 |------|----------------------------------|---------------|
 | 0    | Functions & Variables           | ✅ Complete     |
 | 1    | Conditionals                    | ✅ Complete     |
-| 2    | Loops                           | ❌ Incomplete   |
+| 2    | Loops                           | ✅ Complete     |
 | 3    | Exceptions                      | ❌ Incomplete   |
 | 4    | Libraries                       | ❌ Incomplete   |
 | 5    | Unit Tests                      | ❌ Incomplete   |
