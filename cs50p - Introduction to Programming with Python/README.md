@@ -1,5 +1,5 @@
 # CS50p - Introduction to Programming with Python
-https://cs50.harvard.edu/x/2024/
+https://cs50.harvard.edu/python/2022/
 
 ## Kishan Suhi
 Welcome to my CS50p folder! This repository contains my journey through *CS50p - Harvard University's Introduction to Programming with Python* course, showcasing my solutions of 2024.
