@@ -52,7 +52,7 @@ CS50x/
 | 0    | Functions & Variables           | ✅ Complete     |
 | 1    | Conditionals                    | ✅ Complete     |
 | 2    | Loops                           | ✅ Complete     |
-| 3    | Exceptions                      | ❌ Incomplete   |
+| 3    | Exceptions                      | ⚒️ Working      |
 | 4    | Libraries                       | ❌ Incomplete   |
 | 5    | Unit Tests                      | ❌ Incomplete   |
 | 6    | File I/O                        | ❌ Incomplete   |
