@@ -49,8 +49,8 @@ CS50x/
 
 | Week | Topic                            | Status        |
 |------|----------------------------------|---------------|
-| 0    | Functions & Variables           | ❌ Incomplete   |
-| 1    | Conditionals                    | ❌ Incomplete   |
+| 0    | Functions & Variables           | ✅ Complete     |
+| 1    | Conditionals                    | ✅ Complete     |
 | 2    | Loops                           | ❌ Incomplete   |
 | 3    | Exceptions                      | ❌ Incomplete   |
 | 4    | Libraries                       | ❌ Incomplete   |
