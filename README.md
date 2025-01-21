@@ -35,7 +35,7 @@ CS50/
 
 | Course | Name                             | Status        |
 |--------|----------------------------------|---------------|
-| 1      | cs50x                           | ✅ Completed   |
+| 1      | cs50x  (2024)                   | ✅ Completed   |
 | 2      | cs50p                           | ⚒️ Working     |
 | 3      | cs50w                           | 🕛 Uninitiated |
 | 4      | cs50csec                        | 🕛 Uninitiated |
