@@ -1,6 +1,6 @@
 # CS50 - Harvard Computer Science
 
-## Kishan Suhi 2024/2025
+## Kishan Suhi
 Welcome to my CS50 repository! This repository contains my current journey through all of Harvard's cs50 courses, showcasing my solutions.
 
 ---
