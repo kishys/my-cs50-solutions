@@ -10,7 +10,7 @@ Welcome to my CS50 repository! This repository contains my current journey throu
 This repository is organized as follows:
 
 ```
-CS50/
+my-cs50-solutions/
 ├── cs50ai/        # CS50's Introduction to Artificial Intelligence with Python
 ├── cs50b/         # CS50's Computer Science for Business Professionals
 ├── cs50csec/      # CS50's Introduction to Cybersecurity
